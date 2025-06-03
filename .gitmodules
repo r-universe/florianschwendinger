@@ -29,6 +29,9 @@
 [submodule "scs"]
 	path = scs
 	url = https://github.com/florianschwendinger/scs
+[submodule "stanza"]
+	path = stanza
+	url = https://github.com/cran/stanza
 [submodule "xmlrpc2"]
 	path = xmlrpc2
 	url = https://github.com/florianschwendinger/xmlrpc2
