@@ -14,9 +14,6 @@
 [submodule "ROI.plugin.highs"]
 	path = ROI.plugin.highs
 	url = https://github.com/cran/ROI.plugin.highs
-[submodule "highs"]
-	path = highs
-	url = https://github.com/cran/highs
 [submodule "lpSolveAPI"]
 	path = lpSolveAPI
 	url = https://github.com/florianschwendinger/lpsolveapi
